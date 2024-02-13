@@ -19,9 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About"}
   - {url: "https://drive.google.com/file/d/1sLizknlDfZ0--h8_CvBnc0SBEFKc3nu8/view", title: "CV"}
   - {file: "publications.md", title: "Publications"}
-  - {file: , title: "Teaching"}
-  - {file: , title: "Datasets"}
-  - {file: , title: "Language Models"}
+  - {file: "teaching.md" , title: "Teaching"}
+  - {file: "software.md", title: "Software"}
+  - {file: "data.md", title: "Data"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mlb6496@psu.edu"}
