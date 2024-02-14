@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-# About
+
+## About
 
 ![img](https://raw.githubusercontent.com/mlburnham/mlburnham.github.io/master/assets/images/headshot.jpg){: width="200" height="250" style="float: left;margin-right: 15px;margin-top: 7px;margin-left: 7px"}
 
