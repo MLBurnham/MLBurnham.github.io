@@ -15,16 +15,28 @@ Terrorism and Political Violence
 
 ---
 
-[**Stance Detection with Supervised, Zero-shot, and Few-Shot Applications**](https://arxiv.org/pdf/2305.01723.pdf)  
-arXiv preprint
+[**Judicial Elections and Judicial Behavior**](https://static1.squarespace.com/static/5f3ab7abbcc2a34965a59fe8/t/638a4348c77dbf746dc292a6/1670005576956/20Nelson.pdf)  
+Oxford Handbook of Comparative Judicial Behaviour  
+*With Michael Nelson*
 
 ---
 
-[**Semantic Scaling: Bayesian Ideal Point Estimates with Large Language Models**](https://drive.google.com/file/d/1RCHn-5fejRLEuM46wgbVh3npPKBJ2pM8/view?usp=sharing)  
+[**Stance Detection: A Practical Guide to Identifying Political Beliefs in Text**](https://arxiv.org/pdf/2305.01723.pdf)  
+Conditionally accepted at Political Science Research and Methods
+
+---
+
+[**Semantic Scaling: Bayesian Ideal Point Estimates with Large Language Models**](https://arxiv.org/pdf/2405.02472)  
 Working paper
 
 ---
 
-[**Judicial Elections and Judicial Behavior**](https://static1.squarespace.com/static/5f3ab7abbcc2a34965a59fe8/t/638a4348c77dbf746dc292a6/1670005576956/20Nelson.pdf)  
-Oxford Handbook of Comparative Judicial Behaviour  
-*With Michael Nelson*
+[**What is Sentiment Meant to Mean to Language Models?**](https://arxiv.org/pdf/2405.02454)  
+Working paper
+
+---
+
+[**Does Affect Affect Legislative Effectiveness?**](https://drive.google.com/file/d/1BtAePhf3D7dJ4LnyVpbiaR0Eyg1qrjj8/view?usp=sharing)  
+Working paper
+
+---
