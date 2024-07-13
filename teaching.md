@@ -14,6 +14,6 @@ title: "Teaching"
 
 [**Stance Detection with Supervised, NLI, and In-Context Classifiers**](https://github.com/MLBurnham/stance_detection_tutorials)  
 
-[**Causal Inference from Social Netowrks with Interference**](https://github.com/MLBurnham/network_interference)  
+[**Causal Inference from Social Networks with Interference**](https://github.com/MLBurnham/network_interference)  
 
 [**Audio and Image Classification with Neural Networks**](https://github.com/MLBurnham/nnr_tutorial)
