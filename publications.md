@@ -15,23 +15,23 @@ Terrorism and Political Violence
 
 ---
 
+[**Stance Detection: A Practical Guide to Identifying Political Beliefs in Text**](https://arxiv.org/pdf/2305.01723.pdf)  
+Accepted at Political Science Research and Methods
+
+---
+
+[**What is Sentiment Meant to Mean to Language Models?**](https://arxiv.org/pdf/2405.02454)  
+R&R at Research and Politics
+
+---
+
 [**Judicial Elections and Judicial Behavior**](https://static1.squarespace.com/static/5f3ab7abbcc2a34965a59fe8/t/638a4348c77dbf746dc292a6/1670005576956/20Nelson.pdf)  
 Oxford Handbook of Comparative Judicial Behaviour  
 *With Michael Nelson*
 
 ---
 
-[**Stance Detection: A Practical Guide to Identifying Political Beliefs in Text**](https://arxiv.org/pdf/2305.01723.pdf)  
-Conditionally accepted at Political Science Research and Methods
-
----
-
 [**Semantic Scaling: Bayesian Ideal Point Estimates with Large Language Models**](https://arxiv.org/pdf/2405.02472)  
-Working paper
-
----
-
-[**What is Sentiment Meant to Mean to Language Models?**](https://arxiv.org/pdf/2405.02454)  
 Working paper
 
 ---
