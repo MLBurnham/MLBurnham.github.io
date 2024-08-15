@@ -6,8 +6,10 @@ title: ""
 
 ![img](https://raw.githubusercontent.com/mlburnham/mlburnham.github.io/master/assets/images/headshot.jpg){: width="200" height="250" style="float: left;margin-right: 15px;margin-top: 7px;margin-left: 7px"}
 
-I study American politics and computational research methods at Penn State University. I’m particularly interested in ideology and polarization. My methodological approach focuses on natural language processing and machine learning. My disseratation advances methods of using language models in social science and examines the effect of affective polarization on legislative behavior. 
+I'm a postdoctoral researcher at Princeton University studying American politics and computational research methods. I have a dual title Ph.D. in American politics and social data analytics from Penn State. I’m particularly interested in ideology and polarization, both from a behavioral and institutional perspective. My research touches on an eclectic array of topics including social media, judicial politics, electoral incentives, legislatures, and violent extremism. 
+
+Methodologically, I focus on natural language processing and machine learning. My disseratation advances methods of using language models in social science and demonstrates how they can be used in conjunction with Bayesian item response theory to estimate concepts like affective polarization from text. I authored the Python package Entss for implementing this method -- it can be found under the Software & LLMs tab. There you will also find several language models and data sets tailored for political text.
 
 I received a BA in Economics and International Studies from Utah State University and an MA in Security Studies from Georgetown University, where I focused on terrorism and sub-state violence. Prior to studying at Penn State, I worked as a data scientist for Deloitte, where I consulted for Department of Defense clients.
 
-I live with my wife, son, and three cats outside of State College. I love to cook, run, and tinker with computers. 
+I live with my wife, son, and cats outside of Princeton, NJ.
