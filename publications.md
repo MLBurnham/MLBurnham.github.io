@@ -42,3 +42,6 @@ Working paper
 ---
 
 [**Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text**](https://drive.google.com/file/d/1q-s6qUUpRuh4JwpOEyHvrDbS5j9bonkk/view?usp=share_link)
+Working paper
+
+---
