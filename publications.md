@@ -36,7 +36,9 @@ Working paper
 
 ---
 
-[**Does Affect Affect Legislative Effectiveness?**](https://drive.google.com/file/d/1BtAePhf3D7dJ4LnyVpbiaR0Eyg1qrjj8/view?usp=sharing)  
+[**Does Affect Affect the Effectiveness of Legislators?**](https://drive.google.com/file/d/11R2Fbp8U53FEUZAhr3JHahLS71oBa989/view?usp=share_link)  
 Working paper
 
 ---
+
+[**Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text**](https://drive.google.com/file/d/1q-s6qUUpRuh4JwpOEyHvrDbS5j9bonkk/view?usp=share_link)
