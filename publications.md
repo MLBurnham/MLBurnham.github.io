@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-[**Stance Detection: A Practical Guide to Identifying Political Beliefs in Text**](https://arxiv.org/pdf/2305.01723.pdf)  
+[**Stance Detection: A Practical Guide to Identifying Political Beliefs in Text**](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text/E227E746BD7D9751526DA0EC2C378787)  
 Political Science Research and Methods
 <hr>
 [**What is Sentiment Meant to Mean to Language Models?**](https://arxiv.org/pdf/2405.02454)  
